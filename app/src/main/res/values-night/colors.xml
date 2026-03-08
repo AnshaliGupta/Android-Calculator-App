@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#FF000000</color>
+    <color name="dividerColor">#FF8F9193</color>
+
+    <color name="textColor">#FFFFFFFF</color>
+    <color name="secondaryText">#6A6A67</color>
+    <color name="textOnAccent">#FF9800</color>
+
+    <color name="Op1Color">#292929</color>
+    <color name="Op2Color">#979791</color>
+    <color name="accentOrange">#FF9800</color>
+
+</resources>
